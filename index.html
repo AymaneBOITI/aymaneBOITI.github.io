@@ -12,7 +12,7 @@
     <!-- Bootstrap + Steller main styles -->
     <link rel="stylesheet" href="assets/css/portfolio.css">
 
-<body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
+<body data-spy="scroll" data-target=".navbar" data-offset="40" id="body-home">
 
     <!-- Page navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" data-spy="affix" data-offset-top="0">
@@ -76,7 +76,7 @@
 
                 <div class="buttons pt-3">
                     <button class="btn btn-primary rounded" id="hireMeBtn" data-i18n="hireMe">EMBAUCHEZ-MOI</button>
-                    <button class="btn btn-secondary rounded" id="viewCvBtn" href="#cv" data-i18n="voirCV">VOIR CV</button>
+                    <button class="btn btn-secondary rounded" id="viewCvBtn" onclick="window.location='#cv'" data-i18n="voirCV">VOIR CV</button>
                 </div>
 
                 <div class="socials mt-4 rtl-exception">
@@ -110,7 +110,7 @@
                     <h6 class="title" data-i18n="name">Aymane Boiti</h6>
                     <p class="subtitle" data-i18n="engineeringStudent">Étudiant en ingénierie & Apprenti DevOps</p>
                     <p data-i18n="moreInfo">👨‍💻 Actuellement en deuxième année du cycle ingénieur en informatique à l'école d'ingénieur Sup-Galilée de l'Université Sorbonne Paris Nord, je me spécialise en tant qu'apprenti Software Engineer. Je travaille chez Société Générale dans le département Financement Structuré - Loan IQ au sein de l'équipe DevOps.</p>
-                    <button class="btn btn-primary rounded mt-3" id="viewCvBtn2" href="#cv" data-i18n="voirCV">VOIR CV</button>
+                    <button class="btn btn-primary rounded mt-3" id="viewCvBtn2" onclick="window.location='#cv'" data-i18n="voirCV">VOIR CV</button>
                 </div>
             </div>
         </div>
@@ -337,10 +337,10 @@
                 <div class="form">
                     <form>
                         <div class="form-group">
-                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Entrez votre email" required data-i18n-placeholder="enterEmail">
+                            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Entrez votre email" required data-i18n-placeholder="enterEmail">
                         </div>
                         <div class="form-group">
-                            <textarea name="contact-message" id="" cols="30" rows="5" class="form-control" placeholder="Message" data-i18n-placeholder="message"></textarea>
+                            <textarea name="contact-message" id="contact-message" cols="30" rows="5" class="form-control" placeholder="Message" data-i18n-placeholder="message"></textarea>
                         </div>
                         <button type="submit" class="btn btn-primary btn-block rounded w-lg" data-i18n="sendMessage">Envoyer le message</button>
                     </form>
