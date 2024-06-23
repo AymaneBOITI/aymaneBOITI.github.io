@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cv.xslt" type="text/xsl" ?>
+<cv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cv.xsd">
+    <me>
+        <name lang="fr">Aymane BOITI</name>
+        <name lang="en">Aymane BOITI</name>
+        <name lang="ar">أيمن بواتي</name>
+        <email>
+            <label lang="fr">Email</label>
+            <label lang="en">Email</label>
+            <label lang="ar">البريد الإلكتروني</label>
+            <address>aymane.boiti@edu.sorbonne-paris-nord.fr</address>
+        </email>
+        <description lang="fr">
+            Actuellement en deuxième année du <strong>cycle ingénieur en informatique</strong> à l'école d'ingénieur <strong>Sup-Galilée</strong> de l'Université Sorbonne Paris Nord, je me spécialise en tant qu'apprenti <strong>Software Engineer</strong>. Je travaille chez Société Générale dans le département Financement Structuré - Loan IQ au sein de l'équipe DevOps.
+        </description>
+        <description lang="en">
+            Currently in the second year of the <strong>computer engineering cycle</strong> at the engineering school <strong>Sup-Galilée</strong> of the University of Sorbonne Paris Nord, I specialize as an apprentice <strong>Software Engineer</strong>. I work at Société Générale in the Structured Finance - Loan IQ department within the DevOps team.
+        </description>
+        <description lang="ar">
+            أدرس حاليًا في السنة الثانية من <strong>دورة هندسة الكمبيوتر</strong> في مدرسة الهندسة <strong>Sup-Galilée</strong> بجامعة السوربون باريس نورد، وأتخصص كمتدرب <strong>مهندس برمجيات</strong>. أعمل في Société Générale في قسم التمويل الهيكلي - Loan IQ ضمن فريق DevOps.
+        </description>
+    </me>
+    <education>
+        <title lang="fr">Éducation</title>
+        <title lang="en">Education</title>
+        <title lang="ar">التعليم</title>
+        <qualification>
+            <establishment lang="fr">Groupe Scolaire Berrada</establishment>
+            <establishment lang="en">Groupe Scolaire Berrada</establishment>
+            <establishment lang="ar">مجموعة مدارس برادة</establishment>
+            <type lang="fr">Baccalauréat</type>
+            <type lang="en">Baccalaureate</type>
+            <type lang="ar">البكالوريا</type>
+            <from lang="fr">2019</from>
+            <from lang="en">2019</from>
+            <from lang="ar">2019</from>
+            <to lang="fr">2020</to>
+            <to lang="en">2020</to>
+            <to lang="ar">2020</to>
+            <description lang="fr">Baccalauréat internationale, Sciences Mathématiques option sciences de l'ingénieur</description>
+            <description lang="en">International Baccalaureate, Mathematical Sciences with an option in Engineering Sciences</description>
+            <description lang="ar">البكالوريا الدولية، العلوم الرياضية مع خيار علوم الهندسة</description>
+        </qualification>
+        <qualification>
+            <establishment lang="fr">Lycée Paul Valéry</establishment>
+            <establishment lang="en">Lycée Paul Valéry</establishment>
+            <establishment lang="ar">ثانوية بول فاليري</establishment>
+            <type lang="fr">Classes préparatoires aux grandes écoles</type>
+            <type lang="en">Preparatory classes for the grandes écoles</type>
+            <type lang="ar">الفصول التحضيرية للمدارس الكبرى</type>
+            <from lang="fr">2020</from>
+            <from lang="en">2020</from>
+            <from lang="ar">2020</from>
+            <to lang="fr">2021</to>
+            <to lang="en">2021</to>
+            <to lang="ar">2021</to>
+            <description lang="fr">Classes préparatoires aux grandes écoles (CPGE), Mathématiques, Physique et Sciences de l'Ingénieur</description>
+            <description lang="en">Preparatory classes for the grandes écoles (CPGE), Mathematics, Physics, and Engineering Sciences</description>
+            <description lang="ar">الفصول التحضيرية للمدارس الكبرى (CPGE)، الرياضيات، الفيزياء، وعلوم الهندسة</description>
+        </qualification>
+        <qualification>
+            <establishment lang="fr">Lycée Paul Valéry</establishment>
+            <establishment lang="en">Lycée Paul Valéry</establishment>
+            <establishment lang="ar">ثانوية بول فاليري</establishment>
+            <type lang="fr">Classes préparatoires aux grandes écoles</type>
+            <type lang="en">Preparatory classes for the grandes écoles</type>
+            <type lang="ar">الفصول التحضيرية للمدارس الكبرى</type>
+            <from lang="fr">2021</from>
+            <from lang="en">2021</from>
+            <from lang="ar">2021</from>
+            <to lang="fr">2022</to>
+            <to lang="en">2022</to>
+            <to lang="ar">2022</to>
+            <description lang="fr">Classes préparatoires aux grandes écoles (CPGE), Mathématiques et Physique</description>
+            <description lang="en">Preparatory classes for the grandes écoles (CPGE), Mathematics and Physics</description>
+            <description lang="ar">الفصول التحضيرية للمدارس الكبرى (CPGE)، الرياضيات والفيزياء</description>
+        </qualification>
+        <qualification>
+            <establishment lang="fr">Sup Galilée</establishment>
+            <establishment lang="en">Sup Galilée</establishment>
+            <establishment lang="ar">سوب غاليليه</establishment>
+            <type lang="fr">Cycle d'ingénieur en informatique</type>
+            <type lang="en">Computer engineering cycle</type>
+            <type lang="ar">دورة هندسة الكمبيوتر</type>
+            <from lang="fr">2022</from>
+            <from lang="en">2022</from>
+            <from lang="ar">2022</from>
+            <to lang="fr">2025</to>
+            <to lang="en">2025</to>
+            <to lang="ar">2025</to>
+            <description lang="fr"></description>
+            <description lang="en"></description>
+            <description lang="ar"></description>
+        </qualification>
+    </education>
+    <employment>
+        <title lang="fr">Expérience Professionnelle</title>
+        <title lang="en">Professional Experience</title>
+        <title lang="ar">الخبرة المهنية</title>
+        <experience>
+            <establishment lang="fr">Lycée Paul Valéry</establishment>
+            <establishment lang="en">Lycée Paul Valéry</establishment>
+            <establishment lang="ar">ثانوية بول فاليري</establishment>
+            <job_title lang="fr">Travail d'initiative personnelle encadré</job_title>
+            <job_title lang="en">Supervised Personal Initiative Work</job_title>
+            <job_title lang="ar">عمل مبادرة شخصية بإشراف</job_title>
+            <from lang="fr">Déc 2020</from>
+            <from lang="en">Dec 2020</from>
+            <from lang="ar">ديسمبر 2020</from>
+            <to lang="fr">Jan 2022</to>
+            <to lang="en">Jan 2022</to>
+            <to lang="ar">يناير 2022</to>
+            <description lang="fr">Réalisation d'un TIPE en groupe de 3 personnes sur la modélisation informatique de la propagation d'une épidémie à l'aide du modèle S.I.R en Python.</description>
+            <description lang="en">Completion of a TIPE project in a group of 3 on computer modeling of epidemic spread using the S.I.R model in Python.</description>
+            <description lang="ar">إنجاز مشروع TIPE في مجموعة من 3 أشخاص حول النمذجة الحاسوبية لانتشار الوباء باستخدام نموذج S.I.R في بايثون.</description>
+        </experience>
+        <experience>
+            <establishment lang="fr">Sup Galilée</establishment>
+            <establishment lang="en">Sup Galilée</establishment>
+            <establishment lang="ar">سوب غاليليه</establishment>
+            <job_title lang="fr">Calculateur d'itinéraire pour le métro</job_title>
+            <job_title lang="en">Metro Route Calculator</job_title>
+            <job_title lang="ar">حاسبة مسار المترو</job_title>
+            <from lang="fr">Jan 2023</from>
+            <from lang="en">Jan 2023</from>
+            <from lang="ar">يناير 2023</from>
+            <to lang="fr">Fév 2023</to>
+            <to lang="en">Feb 2023</to>
+            <to lang="ar">فبراير 2023</to>
+            <description lang="fr">Dans le cadre de ce projet, j'ai codé un algorithme permettant de trouver l'itinéraire le plus court reliant deux stations de métro données. J'ai travaillé sur la lecture de deux fichiers de données pour construire la structure de données nécessaire pour réaliser le calcul demandé. Ce projet a développé mes compétences en programmation et en résolution de problèmes algorithmiques</description>
+            <description lang="en">As part of this project, I coded an algorithm to find the shortest route between two given metro stations. I worked on reading two data files to build the necessary data structure to perform the required calculation. This project developed my programming and algorithmic problem-solving skills</description>
+            <description lang="ar">كجزء من هذا المشروع، قمت ببرمجة خوارزمية لإيجاد أقصر طريق بين محطتي مترو معينتين. عملت على قراءة ملفين للبيانات لبناء هيكل البيانات اللازم لإجراء الحساب المطلوب. طور هذا المشروع مهاراتي في البرمجة وحل المشكلات الخوارزمية</description>
+        </experience>
+        <experience>
+            <establishment lang="fr">Sup Galilée</establishment>
+            <establishment lang="en">Sup Galilée</establishment>
+            <establishment lang="ar">سوب غاليليه</establishment>
+            <job_title lang="fr">Modélisation en UML d'un réseau social basé sur la diffusion géographique d'images</job_title>
+            <job_title lang="en">UML Modeling of a Social Network Based on Geographic Image Distribution</job_title>
+            <job_title lang="ar">نمذجة UML لشبكة اجتماعية تعتمد على توزيع الصور الجغرافية</job_title>
+            <from lang="fr">Avr 2023</from>
+            <from lang="en">Apr 2023</from>
+            <from lang="ar">أبريل 2023</from>
+            <to lang="fr">Avr 2023</to>
+            <to lang="en">Apr 2023</to>
+            <to lang="ar">أبريل 2023</to>
+            <description lang="fr"> J'ai réalisé un devoir consistant à modéliser un réseau social, appelé Contagion, basé sur la diffusion géographique d'images. Ce réseau se différencie des autres en ne permettant le partage d'images qu'avec les personnes géographiquement proches de l'utilisateur. Ainsi, les images sont échangées entre les personnes abonnées au même réseau social qui se trouvent dans la même zone géographique. L'objectif est de modéliser la diffusion d'une épidémie, représentée par les images, au sein d'une population. J'ai utilisé UML pour réaliser la modélisation de ce réseau social. Ce projet m'a permis de développer mes compétences en modélisation UML et en réflexion sur la conception d'un système complexe.</description>
+            <description lang="en"> I completed an assignment to model a social network, called Contagion, based on the geographical distribution of images. This network differs from others in that it only allows image sharing with people geographically close to the user. Thus, images are exchanged between people subscribed to the same social network who are in the same geographical area. The goal is to model the spread of an epidemic, represented by the images, within a population. I used UML to model this social network. This project allowed me to develop my UML modeling skills and think about designing a complex system.</description>
+            <description lang="ar"> أكملت مهمة لنمذجة شبكة اجتماعية، تسمى Contagion، بناءً على التوزيع الجغرافي للصور. تختلف هذه الشبكة عن غيرها من الشبكات في أنها تسمح فقط بمشاركة الصور مع الأشخاص القريبين جغرافيًا من المستخدم. وبالتالي، يتم تبادل الصور بين الأشخاص المشتركين في نفس الشبكة الاجتماعية الذين يتواجدون في نفس المنطقة الجغرافية. الهدف هو نمذجة انتشار الوباء، الممثل بالصور، داخل السكان. استخدمت UML لنمذجة هذه الشبكة الاجتماعية. أتاح لي هذا المشروع تطوير مهاراتي في نمذجة UML والتفكير في تصميم نظام معقد.</description>
+        </experience>
+        <experience>
+            <establishment lang="fr">Sup Galilée</establishment>
+            <establishment lang="en">Sup Galilée</establishment>
+            <establishment lang="ar">سوب غاليليه</establishment>
+            <job_title lang="fr">Simulation d’un écosystème proie/prédateur</job_title>
+            <job_title lang="en">Prey/Predator Ecosystem Simulation</job_title>
+            <job_title lang="ar">محاكاة نظام بيئي الفريسة/المفترس</job_title>
+            <from lang="fr">Avr 2023</from>
+            <from lang="en">Apr 2023</from>
+            <from lang="ar">أبريل 2023</from>
+            <to lang="fr">Mai 2023</to>
+            <to lang="en">May 2023</to>
+            <to lang="ar">مايو 2023</to>
+            <description lang="fr">Le but de ce projet en termes de programmation objet est de mettre en place un tel moteur de simulation en utilisant une modélisation objet des données et des algorithmes en langage JAVA.</description>
+            <description lang="en">The aim of this project in terms of object-oriented programming is to set up such a simulation engine using object modeling of data and algorithms in JAVA language.</description>
+            <description lang="ar">الهدف من هذا المشروع من حيث برمجة الكائنات هو إعداد مثل هذا المحرك المحاكاة باستخدام نمذجة الكائنات للبيانات والخوارزميات بلغة JAVA.</description>
+        </experience>
+        <experience>
+            <establishment lang="fr">Sup Galilée</establishment>
+            <establishment lang="en">Sup Galilée</establishment>
+            <establishment lang="ar">سوب غاليليه</establishment>
+            <job_title lang="fr">Jeu Monster</job_title>
+            <job_title lang="en">Monster Game</job_title>
+            <job_title lang="ar">لعبة الوحش</job_title>
+            <from lang="fr">Juin 2023</from>
+            <from lang="en">Jun 2023</from>
+            <from lang="ar">يونيو 2023</from>
+            <to lang="fr">Juin 2023</to>
+            <to lang="en">Jun 2023</to>
+            <to lang="ar">يونيو 2023</to>
+            <description lang="fr">Simulateur de la vie d’un pauvre monstre qui passe son temps à dormir, courir, combattre, travailler et se nourrir. L’internaute doit surveiller son état et lui faire faire des actions qui lui font gagner ou perdre des points de vie ou de l’argent afin de le maintenir en vie. Les technologies utilisées sont HTML, CSS, JavaScript et jQuery.</description>
+            <description lang="en">Simulator of the life of a poor monster who spends his time sleeping, running, fighting, working, and eating. The user must monitor his state and make him perform actions that make him gain or lose life points or money to keep him alive. The technologies used are HTML, CSS, JavaScript, and jQuery.</description>
+            <description lang="ar">محاكي لحياة وحش فقير يقضي وقته في النوم والجري والقتال والعمل والأكل. يجب على المستخدم مراقبة حالته وجعله يقوم بأفعال تجعله يكسب أو يفقد نقاط الحياة أو المال للحفاظ عليه حيا. التقنيات المستخدمة هي HTML و CSS و JavaScript و jQuery.</description>
+        </experience>
+    </employment>
+    <hobandint>
+        <title lang="fr">Hobbies et Intérêts</title>
+        <title lang="en">Hobbies and Interests</title>
+        <title lang="ar">الهوايات والاهتمامات</title>
+        <description lang="fr">Je me passionne pour le football, l'exploration de nouveaux horizons et l'univers des jeux vidéo.</description>
+        <description lang="en">I am passionate about football, exploring new horizons, and the world of video games.</description>
+        <description lang="ar">أنا شغوف بكرة القدم واستكشاف آفاق جديدة وعالم ألعاب الفيديو.</description>
+    </hobandint>
+</cv>
